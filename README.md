@@ -1,5 +1,3 @@
-https://res.cloudinary.com/dsggwrmg1/image/upload/v1635777073/Projects%20screens/portfolio-preview_bwrfi1.png
-
 <h1 align="center">PORTFOLIO</h1>
 
 ### Preview & direct link to the project:
